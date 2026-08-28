@@ -17,8 +17,9 @@
                 "last_commit": "2026-07-28T00:55:56Z",
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17434
-              }
+                "stars": 17441
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "tobiabocchi",
                 "repo": "flipperzero-bruteforce",
                 "stars": 2513
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "xb8",
                 "repo": "t119bruteforcer",
                 "stars": 727
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -69,8 +72,9 @@
                 "last_commit": "2022-05-19T04:24:48Z",
                 "owner": "jimilinuxguy",
                 "repo": "flipperzero-touchtunes",
-                "stars": 720
-              }
+                "stars": 721
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "MakeTotalSense",
                 "repo": "Flipper-Concert-bracelets",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -106,8 +111,9 @@
                 "last_commit": "2024-08-15T17:04:52Z",
                 "owner": "Gioman101",
                 "repo": "FlipperAmiibo",
-                "stars": 3610
-              }
+                "stars": 3612
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -122,7 +128,8 @@
                 "owner": "nortakales",
                 "repo": "flipper-zero-tonies",
                 "stars": 525
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -143,8 +150,9 @@
                 "last_commit": "2026-04-12T06:08:36Z",
                 "owner": "logickworkshop",
                 "repo": "Flipper-IRDB",
-                "stars": 2534
-              }
+                "stars": 2535
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -165,8 +173,9 @@
                 "last_commit": "2024-06-15T09:43:09Z",
                 "owner": "I-Am-Jakoby",
                 "repo": "Flipper-Zero-BadUSB",
-                "stars": 7034
-              }
+                "stars": 7037
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -180,8 +189,9 @@
                 "last_commit": "2026-08-01T00:18:46Z",
                 "owner": "FalsePhilosopher",
                 "repo": "badusb",
-                "stars": 1963
-              }
+                "stars": 1966
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -195,8 +205,9 @@
                 "last_commit": "2026-07-01T18:21:50Z",
                 "owner": "aleff-github",
                 "repo": "my-flipper-shits",
-                "stars": 1825
-              }
+                "stars": 1826
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -211,7 +222,8 @@
                 "owner": "MarkCyber",
                 "repo": "BadUSB",
                 "stars": 369
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -233,7 +245,8 @@
                 "owner": "neverfa11ing",
                 "repo": "FlipperMusicRTTTL",
                 "stars": 378
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -248,7 +261,8 @@
                 "owner": "Tonsil",
                 "repo": "flipper-music-files",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -270,7 +284,8 @@
                 "owner": "wetox-team",
                 "repo": "flipperzero-goodies",
                 "stars": 1415
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -285,7 +300,8 @@
                 "owner": "glutesha",
                 "repo": "Flipper-Starnew",
                 "stars": 577
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -309,11 +325,12 @@
                 "archived": false,
                 "id": 559048939,
                 "language": "C",
-                "last_commit": "2026-08-26T21:52:37Z",
+                "last_commit": "2026-08-27T20:02:31Z",
                 "owner": "xMasterX",
                 "repo": "all-the-plugins",
                 "stars": 1526
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -328,7 +345,8 @@
                 "owner": "flipperdevices",
                 "repo": "flipperzero-good-faps",
                 "stars": 474
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -350,7 +368,8 @@
                 "owner": "jolcese",
                 "repo": "flipperzero-firmware",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -372,7 +391,8 @@
                 "owner": "kala13x",
                 "repo": "flipper-xremote",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -387,7 +407,8 @@
                 "owner": "gebeto",
                 "repo": "flipper-xbox-controller",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -409,7 +430,8 @@
                 "owner": "MuddledBox",
                 "repo": "flipperzero-firmware",
                 "stars": 430
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -424,7 +446,8 @@
                 "owner": "MarkCyber",
                 "repo": "BadUSB",
                 "stars": 369
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -439,7 +462,8 @@
                 "owner": "polarikus",
                 "repo": "flipper-zero_bc_scanner_emulator",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -454,7 +478,8 @@
                 "owner": "pbek",
                 "repo": "usb_hid_autofire",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -475,8 +500,9 @@
                 "last_commit": "2026-07-28T00:55:56Z",
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17434
-              }
+                "stars": 17441
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -491,7 +517,8 @@
                 "owner": "H4ckd4ddy",
                 "repo": "flipperzero-sentry-safe-plugin",
                 "stars": 575
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -506,7 +533,8 @@
                 "owner": "quen0n",
                 "repo": "unitemp-flipperzero",
                 "stars": 353
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -521,7 +549,8 @@
                 "owner": "ezod",
                 "repo": "flipperzero-gps",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -536,7 +565,8 @@
                 "owner": "mothball187",
                 "repo": "flipperzero-nrf24",
                 "stars": 328
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -551,7 +581,8 @@
                 "owner": "mhasbini",
                 "repo": "ServoTesterApp",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -572,8 +603,9 @@
                 "last_commit": "2026-07-28T00:55:56Z",
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17434
-              }
+                "stars": 17441
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -584,11 +616,12 @@
                 "archived": false,
                 "id": 208325027,
                 "language": "C++",
-                "last_commit": "2026-08-27T05:37:26Z",
+                "last_commit": "2026-08-28T07:33:58Z",
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12135
-              }
+                "stars": 12144
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -602,8 +635,9 @@
                 "last_commit": "2024-07-26T11:14:55Z",
                 "owner": "bigbrodude6119",
                 "repo": "flipper-zero-evil-portal",
-                "stars": 2333
-              }
+                "stars": 2335
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -618,7 +652,8 @@
                 "owner": "SkeletonMan03",
                 "repo": "FZEasyMarauderFlash",
                 "stars": 1392
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -640,7 +675,8 @@
                 "owner": "noproto",
                 "repo": "ble_spam_ofw",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -655,7 +691,8 @@
                 "owner": "huuck",
                 "repo": "FlipperZeroUSBKeyboard",
                 "stars": 174
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -677,7 +714,8 @@
                 "owner": "p4nic4ttack",
                 "repo": "doom-flipper-zero",
                 "stars": 341
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -692,7 +730,8 @@
                 "owner": "panki27",
                 "repo": "minesweeper",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -707,7 +746,8 @@
                 "owner": "glitchcore",
                 "repo": "floopper-bloopper",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -722,7 +762,8 @@
                 "owner": "jeffplang",
                 "repo": "flipperzero-firmware",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -737,7 +778,8 @@
                 "owner": "DroomOne",
                 "repo": "flipperzero-firmware",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -752,7 +794,8 @@
                 "owner": "dimat",
                 "repo": "flipperzero-reversi",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -767,7 +810,8 @@
                 "owner": "Rrycbarm",
                 "repo": "t-rex-runner",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -789,7 +833,8 @@
                 "owner": "akopachov",
                 "repo": "flipper-zero_authenticator",
                 "stars": 668
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -804,7 +849,8 @@
                 "owner": "csBlueChip",
                 "repo": "FlipperZero_plugin_howto",
                 "stars": 300
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -819,7 +865,8 @@
                 "owner": "Th3Un1q3",
                 "repo": "flipp_pomodoro",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -834,7 +881,8 @@
                 "owner": "theisolinearchip",
                 "repo": "flipperzero_stuff",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -849,7 +897,8 @@
                 "owner": "theisolinearchip",
                 "repo": "flipperzero_stuff",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -864,7 +913,8 @@
                 "owner": "besya",
                 "repo": "flipperzero-tuning-fork",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -879,7 +929,8 @@
                 "owner": "panki27",
                 "repo": "bpm-tapper",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -894,7 +945,8 @@
                 "owner": "McAzzaMan",
                 "repo": "flipperzero-firmware",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -918,11 +970,12 @@
                 "archived": false,
                 "id": 284134871,
                 "language": "C",
-                "last_commit": "2026-08-17T12:49:01Z",
+                "last_commit": "2026-08-27T19:16:44Z",
                 "owner": "flipperdevices",
                 "repo": "flipperzero-firmware",
-                "stars": 16518
-              }
+                "stars": 16522
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -940,11 +993,12 @@
                 "archived": false,
                 "id": 470579591,
                 "language": "C",
-                "last_commit": "2026-08-26T23:04:46Z",
+                "last_commit": "2026-08-27T20:29:06Z",
                 "owner": "DarkFlippers",
                 "repo": "unleashed-firmware",
-                "stars": 22124
-              }
+                "stars": 22127
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -958,8 +1012,9 @@
                 "last_commit": "2026-08-18T20:42:11Z",
                 "owner": "Next-Flip",
                 "repo": "Momentum-Firmware",
-                "stars": 9081
-              }
+                "stars": 9082
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -970,11 +1025,12 @@
                 "archived": false,
                 "id": 492005030,
                 "language": "C",
-                "last_commit": "2026-08-27T00:39:24Z",
+                "last_commit": "2026-08-28T09:31:27Z",
                 "owner": "RogueMaster",
                 "repo": "flipperzero-firmware-wPlugins",
-                "stars": 6333
-              }
+                "stars": 6335
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -996,7 +1052,8 @@
                 "owner": "Flipper-XFW",
                 "repo": "Xtreme-Firmware",
                 "stars": 9906
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1011,7 +1068,8 @@
                 "owner": "MuddledBox",
                 "repo": "flipperzero-firmware",
                 "stars": 430
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1026,7 +1084,8 @@
                 "owner": "skizzophrenic",
                 "repo": "SquachWare-CFW",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1041,7 +1100,8 @@
                 "owner": "wetox-team",
                 "repo": "flipperzero-firmware",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1056,7 +1116,8 @@
                 "owner": "v1nc",
                 "repo": "flipperzero-firmware",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1071,7 +1132,8 @@
                 "owner": "AlexStrNik",
                 "repo": "flipperzero-firmware",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -1098,8 +1160,9 @@
                 "last_commit": "2026-07-28T00:55:56Z",
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17434
-              }
+                "stars": 17441
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1113,8 +1176,9 @@
                 "last_commit": "2024-08-07T00:09:35Z",
                 "owner": "skizzophrenic",
                 "repo": "Talking-Sasquach",
-                "stars": 771
-              }
+                "stars": 772
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1128,8 +1192,9 @@
                 "last_commit": "2026-08-03T23:27:17Z",
                 "owner": "Kuronons",
                 "repo": "FZ_graphics",
-                "stars": 572
-              }
+                "stars": 573
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1144,7 +1209,8 @@
                 "owner": "wrenchathome",
                 "repo": "flip0anims",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1159,7 +1225,8 @@
                 "owner": "mnenkov",
                 "repo": "flipper-zero-animations",
                 "stars": 276
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1174,7 +1241,8 @@
                 "owner": "Kf637",
                 "repo": "Animations-for-Flipper-Zero",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1189,7 +1257,8 @@
                 "owner": "Haseosama",
                 "repo": "FZ_Animations",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1204,7 +1273,8 @@
                 "owner": "stopoxy",
                 "repo": "FZAnimations",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1219,7 +1289,8 @@
                 "owner": "DoobTheGoober",
                 "repo": "FlipperZeroAnimation",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1234,7 +1305,8 @@
                 "owner": "oneamongthetrees",
                 "repo": "fz-gfx",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -1256,7 +1328,8 @@
                 "owner": "Ooggle",
                 "repo": "FlipperAnimationManager",
                 "stars": 506
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1271,7 +1344,8 @@
                 "owner": "DoobTheGoober",
                 "repo": "zip2Animation",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1286,7 +1360,8 @@
                 "owner": "H4XV",
                 "repo": "flipper-animation-generator",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -1308,7 +1383,8 @@
                 "owner": "Ooggle",
                 "repo": "FlipperAnimationManager",
                 "stars": 506
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1323,7 +1399,8 @@
                 "owner": "DoobTheGoober",
                 "repo": "zip2Animation",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1338,7 +1415,8 @@
                 "owner": "H4XV",
                 "repo": "flipper-animation-generator",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -1366,7 +1444,8 @@
                 "owner": "MuddledBox",
                 "repo": "FlipperZeroCases",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1381,7 +1460,8 @@
                 "owner": "s0ko1ex",
                 "repo": "FlipperZero-Hardware",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -1399,11 +1479,12 @@
                 "archived": false,
                 "id": 208325027,
                 "language": "C++",
-                "last_commit": "2026-08-27T05:37:26Z",
+                "last_commit": "2026-08-28T07:33:58Z",
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12135
-              }
+                "stars": 12144
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1418,7 +1499,8 @@
                 "owner": "SequoiaSan",
                 "repo": "FlipperZero-WiFi-Scanner_Module",
                 "stars": 764
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1433,7 +1515,8 @@
                 "owner": "eried",
                 "repo": "flipperzero-mayhem",
                 "stars": 720
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1448,7 +1531,8 @@
                 "owner": "DrB0rk",
                 "repo": "Flipper-Zero-Boards",
                 "stars": 576
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1463,7 +1547,8 @@
                 "owner": "SequoiaSan",
                 "repo": "FlipperZero-Wifi-ESP8266-Deauther-Module",
                 "stars": 483
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1478,7 +1563,8 @@
                 "owner": "Chrismettal",
                 "repo": "flipper-zero-backpacks",
                 "stars": 441
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1493,7 +1579,8 @@
                 "owner": "lomalkin",
                 "repo": "flipperzero-protoboards-kicad",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1508,7 +1595,8 @@
                 "owner": "Z3BRO",
                 "repo": "Flipper-Zero-Pelican-Case-Wifi-Devboard",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -1530,7 +1618,8 @@
                 "owner": "quen0n",
                 "repo": "flipperzero-firmware-rgb",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -1557,8 +1646,9 @@
                 "last_commit": "2025-02-22T13:28:20Z",
                 "owner": "evilpete",
                 "repo": "flipper_toolbox",
-                "stars": 953
-              }
+                "stars": 954
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -1580,7 +1670,8 @@
                 "owner": "0xz00n",
                 "repo": "FlipMiibo",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1595,7 +1686,8 @@
                 "owner": "Lucaslhm",
                 "repo": "AmiiboFlipperConverter",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1610,7 +1702,8 @@
                 "owner": "equipter",
                 "repo": "ClassicConverter",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1625,7 +1718,8 @@
                 "owner": "maehw",
                 "repo": "SerialHex2FlipperZeroInfrared",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1640,7 +1734,8 @@
                 "owner": "Spexivus",
                 "repo": "csv2ir",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1655,7 +1750,8 @@
                 "owner": "white-gecko",
                 "repo": "musicxml2fmf",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1670,7 +1766,8 @@
                 "owner": "SkeletonMan03",
                 "repo": "VertProntoIR2FlipperIR",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -1692,7 +1789,8 @@
                 "owner": "flipperzero-rs",
                 "repo": "flipperzero-rs",
                 "stars": 688
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1707,7 +1805,8 @@
                 "owner": "dakhnod",
                 "repo": "fzfs",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1722,7 +1821,8 @@
                 "owner": "hedger",
                 "repo": "flipperzero-sesproject",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1737,7 +1837,8 @@
                 "owner": "qqmajikpp",
                 "repo": "FBT-AARCH64",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -1759,7 +1860,8 @@
                 "owner": "wh00hw",
                 "repo": "pyFlipper",
                 "stars": 441
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1774,7 +1876,8 @@
                 "owner": "jon4hz",
                 "repo": "fztea",
                 "stars": 400
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1789,7 +1892,8 @@
                 "owner": "DroomOne",
                 "repo": "FlipperScripts",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1804,7 +1908,8 @@
                 "owner": "ShotokanZH",
                 "repo": "flipper_sub_plotters_comparers",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1819,7 +1924,8 @@
                 "owner": "lomalkin",
                 "repo": "flipperzero-cli-tools",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -1847,7 +1953,8 @@
                 "owner": "V0lk3n",
                 "repo": "Flipper-Skylanders",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -1868,8 +1975,9 @@
                 "last_commit": "2026-07-28T00:55:56Z",
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17434
-              }
+                "stars": 17441
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
@@ -1883,8 +1991,9 @@
                 "last_commit": "2026-07-28T00:55:56Z",
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17434
-              }
+                "stars": 17441
+              },
+              "first_seen": "2026-08-28T13:47:44.755Z"
             }
           ],
           "description": null,
@@ -1896,7 +2005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:21:25.494Z",
+    "last_updated": "2026-08-28T13:47:44.755Z",
     "original_repository_info": {
       "archived": false,
       "id": 608239509,
