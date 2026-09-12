@@ -122,30 +122,30 @@
 
 ### *General*
 
-* <b><code> 17497⭐</code></b> <b><code>  3912🍴</code></b> [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds, including everything below.](https://github.com/UberGuidoZ/Flipper) ⭐ 17,504 | 🐛 8 | 🌐 C | 📅 2026-07-28)
+* <b><code> 17497⭐</code></b> <b><code>  3912🍴</code></b> [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds, including everything below.](https://github.com/UberGuidoZ/Flipper) ⭐ 17,510 | 🐛 8 | 🌐 C | 📅 2026-07-28)
 
 ### *Sub-GHz*
 
 * <b><code>  2519⭐</code></b> <b><code>   163🍴</code></b> [`flipperzero-bruteforce` Generate .sub files to brute force Sub-GHz OOK.](https://github.com/tobiabocchi/flipperzero-bruteforce) ⭐ 2,519 | 🐛 13 | 🌐 Python | 📅 2024-07-12)
 * <b><code>   728⭐</code></b> <b><code>    60🍴</code></b> [`T119 bruteforcer` Triggers Retekess T119 restaurant pagers.](https://github.com/xb8/t119bruteforcer) ⭐ 728 | 🐛 0 | 📅 2022-08-12)
-* <b><code>   724⭐</code></b> <b><code>    52🍴</code></b> [`FlipperZero-TouchTunes` Dumps of TouchTune's remote.](https://github.com/jimilinuxguy/flipperzero-touchtunes) ⭐ 725 | 🐛 9 | 📅 2022-05-19)
+* <b><code>   724⭐</code></b> <b><code>    52🍴</code></b> [`FlipperZero-TouchTunes` Dumps of TouchTune's remote.](https://github.com/jimilinuxguy/flipperzero-touchtunes) ⭐ 726 | 🐛 9 | 📅 2022-05-19)
 * <b><code>    91⭐</code></b> <b><code>     3🍴</code></b> [`Flipperzero-Concert-Bracelets` Sub-GHz file to trigger event LED bracelets.](https://github.com/MakeTotalSense/Flipper-Concert-bracelets) ⭐ 91 | 🐛 0 | 📅 2023-11-21)
 
 ### *NFC/RFID*
 
-* <b><code>  3616⭐</code></b> <b><code>   298🍴</code></b> [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo) ⭐ 3,618 | 🐛 10 | 🌐 Python | 📅 2024-08-15)
-* <b><code>   539⭐</code></b> <b><code>   104🍴</code></b> [`Flipper-Zero-Tonies` Database of Tonies for the Toniebox.](https://github.com/nortakales/flipper-zero-tonies) ⭐ 539 | 🐛 12 | 🌐 Python | 📅 2026-09-09)
+* <b><code>  3616⭐</code></b> <b><code>   298🍴</code></b> [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo) ⭐ 3,619 | 🐛 10 | 🌐 Python | 📅 2024-08-15)
+* <b><code>   539⭐</code></b> <b><code>   104🍴</code></b> [`Flipper-Zero-Tonies` Database of Tonies for the Toniebox.](https://github.com/nortakales/flipper-zero-tonies) ⭐ 539 | 🐛 13 | 🌐 Python | 📅 2026-09-09)
 
 ### *Infrared*
 
-* <b><code>  2542⭐</code></b> <b><code>   338🍴</code></b> [`Flipper-IRDB` Many IR dumps for various devices.](https://github.com/logickworkshop/Flipper-IRDB) ⭐ 2,542 | 🐛 1 | 📅 2026-04-12)
+* <b><code>  2542⭐</code></b> <b><code>   338🍴</code></b> [`Flipper-IRDB` Many IR dumps for various devices.](https://github.com/logickworkshop/Flipper-IRDB) ⭐ 2,546 | 🐛 1 | 📅 2026-04-12)
 
 ### *BadUSB*
 
-* <b><code>  7072⭐</code></b> <b><code>   890🍴</code></b> [`Flipper BadUSB Payloads` Collection of payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB) ⭐ 7,072 | 🐛 66 | 🌐 PowerShell | 📅 2024-06-15)
+* <b><code>  7072⭐</code></b> <b><code>   890🍴</code></b> [`Flipper BadUSB Payloads` Collection of payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB) ⭐ 7,075 | 🐛 66 | 🌐 PowerShell | 📅 2024-06-15)
 * <b><code>  1984⭐</code></b> <b><code>   276🍴</code></b> [`FalsePhilosophers Flipper BadUSB` Flipper Zero community ducky payload repo.](https://github.com/FalsePhilosopher/badusb) ⭐ 1,985 | 🐛 0 | 🌐 PowerShell | 📅 2026-09-01)
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [`My-Flipper-Shits` Free and open-source BadUSB payloads for Flipper Zero.](https://github.com/aleff-github/my-flipper-shits/) ⭐ 1,834 | 🐛 1 | 🌐 HTML | 📅 2026-07-01)
-* <b><code>   376⭐</code></b> <b><code>    24🍴</code></b> [`MarkCyber` Free BadUSB payloads for ethical hacking (and fun).](https://github.com/MarkCyber/BadUSB) ⭐ 376 | 🐛 2 | 🌐 Python | 📅 2025-03-20)
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [`My-Flipper-Shits` Free and open-source BadUSB payloads for Flipper Zero.](https://github.com/aleff-github/my-flipper-shits/) ⭐ 1,836 | 🐛 1 | 🌐 HTML | 📅 2026-07-01)
+* <b><code>   376⭐</code></b> <b><code>    24🍴</code></b> [`MarkCyber` Free BadUSB payloads for ethical hacking (and fun).](https://github.com/MarkCyber/BadUSB) ⭐ 377 | 🐛 2 | 🌐 Python | 📅 2025-03-20)
 
 ### *Music*
 
@@ -167,7 +167,7 @@
 ### *General*
 
 * <b><code>  1534⭐</code></b> <b><code>   174🍴</code></b> [`All the plugins` Large collection of applications including some not published in the official catalog](https://github.com/xMasterX/all-the-plugins/tree/dev) ⭐ 1,534 | 🐛 7 | 🌐 C | 📅 2026-09-09)
-* <b><code>   477⭐</code></b> <b><code>    99🍴</code></b> [`Officially maintained apps` Official apps maintained by the Flipper Team and collaborators.](https://github.com/flipperdevices/flipperzero-good-faps) ⭐ 478 | 🐛 40 | 🌐 C | 📅 2026-08-15)
+* <b><code>   477⭐</code></b> <b><code>    99🍴</code></b> [`Officially maintained apps` Official apps maintained by the Flipper Team and collaborators.](https://github.com/flipperdevices/flipperzero-good-faps) ⭐ 479 | 🐛 41 | 🌐 C | 📅 2026-08-15)
 
 ### *Sub-GHz*
 
@@ -181,13 +181,13 @@
 ### *BadUSB*
 
 * <b><code>   430⭐</code></b> <b><code>    56🍴</code></b> [`Mouse jiggler` Keeps PC screens on by acting as a moving mouse.](https://github.com/MuddledBox/flipperzero-firmware/tree/Mouse_Jiggler/applications/mouse_jiggler) ⭐ 430 | 🐛 9 | 🌐 C | 📅 2022-12-19)
-* <b><code>   376⭐</code></b> <b><code>    24🍴</code></b> [`Vulnerability Scanner` Scans a PC for vulnerabilities and saves results.](https://github.com/MarkCyber/BadUSB/blob/main/HackStuff/VulnerabilityScanner.txt) ⭐ 376 | 🐛 2 | 🌐 Python | 📅 2025-03-20)
+* <b><code>   376⭐</code></b> <b><code>    24🍴</code></b> [`Vulnerability Scanner` Scans a PC for vulnerabilities and saves results.](https://github.com/MarkCyber/BadUSB/blob/main/HackStuff/VulnerabilityScanner.txt) ⭐ 377 | 🐛 2 | 🌐 Python | 📅 2025-03-20)
 * <b><code>   167⭐</code></b> <b><code>    12🍴</code></b> [`COM Port Scanner Emulator` Barcode Scanner Emulator.](https://github.com/polarikus/flipper-zero_bc_scanner_emulator) ⭐ 167 | 🐛 2 | 🌐 C | 📅 2025-04-14)
 * <b><code>   128⭐</code></b> <b><code>    16🍴</code></b> [`USB HID Autofire` Send left-clicks as a USB HID device.](https://github.com/pbek/usb_hid_autofire) ⭐ 128 | 🐛 4 | 🌐 C | 📅 2026-04-16)
 
 ### *GPIO*
 
-* <b><code> 17497⭐</code></b> <b><code>  3912🍴</code></b> [`UberGuidoZ Documentation` Many different pinouts, modules, and protocol documentation.](https://github.com/UberGuidoZ/Flipper/tree/main/GPIO) ⭐ 17,504 | 🐛 8 | 🌐 C | 📅 2026-07-28)
+* <b><code> 17497⭐</code></b> <b><code>  3912🍴</code></b> [`UberGuidoZ Documentation` Many different pinouts, modules, and protocol documentation.](https://github.com/UberGuidoZ/Flipper/tree/main/GPIO) ⭐ 17,510 | 🐛 8 | 🌐 C | 📅 2026-07-28)
 * <b><code>   576⭐</code></b> <b><code>    25🍴</code></b> [`Sentry Safe` Plugin that can open any Sentry Safe and Master Lock electronic safe without entering pin code.](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin) ⭐ 576 | 🐛 5 | 🌐 C | 📅 2025-07-11)
 * <b><code>   354⭐</code></b> <b><code>    46🍴</code></b> [`Unitemp` Temperature, humidity and pressure sensors reader (DHT11/22, DS18B20, BMP280, HTU21x and more)](https://github.com/quen0n/unitemp-flipperzero) ⭐ 354 | 🐛 3 | 🌐 C | 📅 2026-06-03)
 * <b><code>   345⭐</code></b> <b><code>    38🍴</code></b> [`GPS` Display data from a serial GPS module.](https://github.com/ezod/flipperzero-gps) ⭐ 345 | 🐛 9 | 🌐 C | 📅 2025-02-04)
@@ -196,8 +196,8 @@
 
 ### *Wifi Devboard*
 
-* <b><code> 17497⭐</code></b> <b><code>  3912🍴</code></b> [`UberGuidoZ Files and Documentation` Documentation, Marauder, BlackMagic, and links.](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard) ⭐ 17,504 | 🐛 8 | 🌐 C | 📅 2026-07-28)
-* <b><code> 12292⭐</code></b> <b><code>  1466🍴</code></b> [`Maraduer Official` Official site from JustCallMeKoko, including various ESP32 options.](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,314 | 🐛 328 | 🌐 C++ | 📅 2026-09-10)
+* <b><code> 17497⭐</code></b> <b><code>  3912🍴</code></b> [`UberGuidoZ Files and Documentation` Documentation, Marauder, BlackMagic, and links.](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard) ⭐ 17,510 | 🐛 8 | 🌐 C | 📅 2026-07-28)
+* <b><code> 12292⭐</code></b> <b><code>  1466🍴</code></b> [`Maraduer Official` Official site from JustCallMeKoko, including various ESP32 options.](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,317 | 🐛 328 | 🌐 C++ | 📅 2026-09-12)
 * <b><code>  2345⭐</code></b> <b><code>   284🍴</code></b> [`Flipper Zero Evil Portal` An evil captive portal Wi-Fi access point using the Flipper Zero and Wi-Fi dev board](https://github.com/bigbrodude6119/flipper-zero-evil-portal) ⭐ 2,345 | 🐛 81 | 🌐 HTML | 📅 2024-07-26)
 * <b><code>  1396⭐</code></b> <b><code>   177🍴</code></b> [`SkeletonMan's ESP32 Flasher` Python script to flash multiple boards with Marauder or BlackMagic.](https://github.com/SkeletonMan03/FZEasyMarauderFlash) ⭐ 1,396 | 🐛 6 | 🌐 Python | 📅 2026-05-27)
 * 🌎 [`FZEE Flasher` Easy web flasher for various different wifi boards.](fzeeflasher.com/)
@@ -237,13 +237,13 @@
 
 ### *Official firmware (ofw)*
 
-* <b><code> 16566⭐</code></b> <b><code>  3459🍴</code></b> [`Official firmware` The source code for Flipper's stock firmware.](https://github.com/flipperdevices/flipperzero-firmware) ⭐ 16,573 | 🐛 244 | 🌐 C | 📅 2026-09-04)
+* <b><code> 16566⭐</code></b> <b><code>  3459🍴</code></b> [`Official firmware` The source code for Flipper's stock firmware.](https://github.com/flipperdevices/flipperzero-firmware) ⭐ 16,579 | 🐛 245 | 🌐 C | 📅 2026-09-04)
 
 ### *Custom firmware (cfw)*
 
-* <b><code> 22202⭐</code></b> <b><code>  1938🍴</code></b> [`Unleashed` Unlocked firmware with rolling codes support & community plugins, stable tweaks, and games.](https://github.com/DarkFlippers/unleashed-firmware) ⭐ 22,208 | 🐛 26 | 🌐 C | 📅 2026-09-10)
-* <b><code>  9121⭐</code></b> <b><code>   581🍴</code></b> [`Momentum` Feature-rich, stable and customizable Flipper firmware: a direct continuation of the Xtreme firmware.](https://github.com/Next-Flip/Momentum-Firmware) ⭐ 9,122 | 🐛 94 | 🌐 C | 📅 2026-08-18)
-* <b><code>  6349⭐</code></b> <b><code>   614🍴</code></b> [`RogueMaster` Fork of Unleashed firmware with custom graphics, experimental tweaks, community plugins and games.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) ⭐ 6,352 | 🐛 0 | 🌐 C | 📅 2026-09-11)
+* <b><code> 22202⭐</code></b> <b><code>  1938🍴</code></b> [`Unleashed` Unlocked firmware with rolling codes support & community plugins, stable tweaks, and games.](https://github.com/DarkFlippers/unleashed-firmware) ⭐ 22,210 | 🐛 26 | 🌐 C | 📅 2026-09-10)
+* <b><code>  9121⭐</code></b> <b><code>   581🍴</code></b> [`Momentum` Feature-rich, stable and customizable Flipper firmware: a direct continuation of the Xtreme firmware.](https://github.com/Next-Flip/Momentum-Firmware) ⭐ 9,125 | 🐛 94 | 🌐 C | 📅 2026-08-18)
+* <b><code>  6349⭐</code></b> <b><code>   614🍴</code></b> [`RogueMaster` Fork of Unleashed firmware with custom graphics, experimental tweaks, community plugins and games.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) ⭐ 6,353 | 🐛 0 | 🌐 C | 📅 2026-09-12)
 
 ### *Outdated/Unmaintained firmware*
 
@@ -264,7 +264,7 @@
 
 ### *Pre-made animations*
 
-* <b><code> 17497⭐</code></b> <b><code>  3912🍴</code></b> [`UberGuidoZ Graphics` Brief description and links to resources, including PYX host.](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics) ⭐ 17,504 | 🐛 8 | 🌐 C | 📅 2026-07-28)
+* <b><code> 17497⭐</code></b> <b><code>  3912🍴</code></b> [`UberGuidoZ Graphics` Brief description and links to resources, including PYX host.](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics) ⭐ 17,510 | 🐛 8 | 🌐 C | 📅 2026-07-28)
 * <b><code>   773⭐</code></b> <b><code>    48🍴</code></b> [`Talking Sasquach Animations` Literally wrote the book on making animations.](https://github.com/skizzophrenic/Talking-Sasquach) ⭐ 773 | 🐛 6 | 🌐 C | 📅 2024-08-07)
 * <b><code>   574⭐</code></b> <b><code>    33🍴</code></b> [`Kuronons Graphics` Custom animations, passport backgrounds & profile pictures.](https://github.com/Kuronons/FZ_graphics) ⭐ 574 | 🐛 0 | 📅 2026-08-03)
 * <b><code>   281⭐</code></b> <b><code>     6🍴</code></b> [`Wr3nch Animations` Some custom animations and scripts.](https://github.com/wrenchathome/flip0anims) ⭐ 281 | 🐛 3 | 🌐 Python | 📅 2023-11-26)
@@ -278,13 +278,13 @@
 
 ### *Utilities*
 
-* <b><code>   509⭐</code></b> <b><code>    17🍴</code></b> [`Flipper Animation Manager` Visualize and manage animations directly from your computer.](https://github.com/Ooggle/FlipperAnimationManager) ⭐ 509 | 🐛 4 | 🌐 C++ | 📅 2023-11-16)
+* <b><code>   509⭐</code></b> <b><code>    17🍴</code></b> [`Flipper Animation Manager` Visualize and manage animations directly from your computer.](https://github.com/Ooggle/FlipperAnimationManager) ⭐ 508 | 🐛 4 | 🌐 C++ | 📅 2023-11-16)
 * <b><code>    57⭐</code></b> <b><code>     6🍴</code></b> [`zip2Animation` Utility to assist in creating animations.](https://github.com/CharlesTheGreat77/zip2Animation) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2024-02-14)
 * <b><code>    27⭐</code></b> <b><code>     1🍴</code></b> [`H4XV's Gif2Anim` Gif2FlipperAnimation Converter](https://github.com/H4XV/flipper-animation-generator) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2024-02-23)
 
 ### *Utilities*
 
-* <b><code>   509⭐</code></b> <b><code>    17🍴</code></b> [`Flipper Animation Manager` Visualize and manage animations directly from your computer.](https://github.com/Ooggle/FlipperAnimationManager) ⭐ 509 | 🐛 4 | 🌐 C++ | 📅 2023-11-16)
+* <b><code>   509⭐</code></b> <b><code>    17🍴</code></b> [`Flipper Animation Manager` Visualize and manage animations directly from your computer.](https://github.com/Ooggle/FlipperAnimationManager) ⭐ 508 | 🐛 4 | 🌐 C++ | 📅 2023-11-16)
 * <b><code>    57⭐</code></b> <b><code>     6🍴</code></b> [`zip2Animation` Utility to assist in creating animations.](https://github.com/CharlesTheGreat77/zip2Animation) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2024-02-14)
 * <b><code>    27⭐</code></b> <b><code>     1🍴</code></b> [`H4XV's Gif2Anim` Gif2FlipperAnimation Converter](https://github.com/H4XV/flipper-animation-generator) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2024-02-23)
 
@@ -305,7 +305,7 @@
 
 ### *Modules*
 
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [`ESP32 Marauder on WiFi dev board` Portable WiFi/Bluetooth pentesting.](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero) ⭐ 12,314 | 🐛 328 | 🌐 C++ | 📅 2026-09-10)
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [`ESP32 Marauder on WiFi dev board` Portable WiFi/Bluetooth pentesting.](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero) ⭐ 12,317 | 🐛 328 | 🌐 C++ | 📅 2026-09-12)
 * <b><code>   767⭐</code></b> <b><code>    31🍴</code></b> [`WiFi Scanner Module` Scans for WiFi networks via a custom Wemos module board.](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module) ⭐ 768 | 🐛 17 | 🌐 C | 📅 2022-10-09)
 * <b><code>   724⭐</code></b> <b><code>    40🍴</code></b> [`The Mayhem Fin` ESP32 with WiFi, BT/BLE, Micro-SD, Camera, Flashlight, NRF24/CC1101, and more.](https://github.com/eried/flipperzero-mayhem) ⭐ 724 | 🐛 3 | 🌐 C++ | 📅 2026-01-26)
 * <b><code>   577⭐</code></b> <b><code>    33🍴</code></b> [`Flipper Zero Boards` ESP32 and NRF24 daughterboards for the Flipper.](https://github.com/DrB0rk/Flipper-Zero-Boards) ⭐ 577 | 🐛 5 | 🌐 Batchfile | 📅 2024-04-18)
@@ -389,8 +389,8 @@
 
 ### *Specifications*
 
-* <b><code> 17497⭐</code></b> <b><code>  3912🍴</code></b> [`Add-on Modules GPIO Pinouts` ESP32, ESP8266, ESP32-CAM, ESP32-WROOM, NRF24.](https://github.com/UberGuidoZ/Flipper/tree/main/GPIO) ⭐ 17,504 | 🐛 8 | 🌐 C | 📅 2026-07-28)
-* <b><code> 17497⭐</code></b> <b><code>  3912🍴</code></b> [`Flipper Zero Dimensions` Basic info on screen and case dimensions.](https://github.com/UberGuidoZ/Flipper/tree/main/FlipperZero_Dimensions) ⭐ 17,504 | 🐛 8 | 🌐 C | 📅 2026-07-28)
+* <b><code> 17497⭐</code></b> <b><code>  3912🍴</code></b> [`Add-on Modules GPIO Pinouts` ESP32, ESP8266, ESP32-CAM, ESP32-WROOM, NRF24.](https://github.com/UberGuidoZ/Flipper/tree/main/GPIO) ⭐ 17,510 | 🐛 8 | 🌐 C | 📅 2026-07-28)
+* <b><code> 17497⭐</code></b> <b><code>  3912🍴</code></b> [`Flipper Zero Dimensions` Basic info on screen and case dimensions.](https://github.com/UberGuidoZ/Flipper/tree/main/FlipperZero_Dimensions) ⭐ 17,510 | 🐛 8 | 🌐 C | 📅 2026-07-28)
 
 ### *Other*
 
@@ -409,8 +409,8 @@
 
 ## Source
 
-<b><code> 24245⭐</code></b> <b><code>  1060🍴</code></b> [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) ⭐ 24,248 | 🐛 17 | 📅 2024-09-27)
+<b><code> 24245⭐</code></b> <b><code>  1060🍴</code></b> [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) ⭐ 24,252 | 🐛 17 | 📅 2024-09-27)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
