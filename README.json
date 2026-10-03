@@ -158,7 +158,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-02T04:00:29Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "nortakales",
                 "repo": "flipper-zero-tonies",
                 "stars": 564,
@@ -882,7 +882,7 @@
                 "open_issues": 341,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12542,
+                "stars": 12543,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -1421,7 +1421,7 @@
                 "open_issues": 31,
                 "owner": "DarkFlippers",
                 "repo": "unleashed-firmware",
-                "stars": 22411,
+                "stars": 22412,
                 "topics": [
                   "alternative-firmware",
                   "cfw",
@@ -2111,7 +2111,7 @@
                 "open_issues": 341,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12542,
+                "stars": 12543,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -2879,7 +2879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:17:50.013Z",
+    "last_updated": "2026-10-03T07:36:11.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "🐬 A collection of awesome resources for the Flipper Zero device. With repository stars⭐ and forks🍴",

@@ -134,7 +134,7 @@
 ### *NFC/RFID*
 
 * <b><code>  3630⭐</code></b> <b><code>   301🍴</code></b> [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo) ⭐ 3,631 | 🐛 10 | 🌐 Python | 📅 2024-08-15)
-* <b><code>   564⭐</code></b> <b><code>   110🍴</code></b> [`Flipper-Zero-Tonies` Database of Tonies for the Toniebox.](https://github.com/nortakales/flipper-zero-tonies) ⭐ 564 | 🐛 12 | 🌐 Python | 📅 2026-10-02)
+* <b><code>   564⭐</code></b> <b><code>   110🍴</code></b> [`Flipper-Zero-Tonies` Database of Tonies for the Toniebox.](https://github.com/nortakales/flipper-zero-tonies) ⭐ 564 | 🐛 13 | 🌐 Python | 📅 2026-10-02)
 
 ### *Infrared*
 
@@ -197,7 +197,7 @@
 ### *Wifi Devboard*
 
 * <b><code> 17623⭐</code></b> <b><code>  3917🍴</code></b> [`UberGuidoZ Files and Documentation` Documentation, Marauder, BlackMagic, and links.](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard) ⭐ 17,625 | 🐛 8 | 🌐 C | 📅 2026-07-28)
-* <b><code> 12539⭐</code></b> <b><code>  1503🍴</code></b> [`Maraduer Official` Official site from JustCallMeKoko, including various ESP32 options.](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,542 | 🐛 341 | 🌐 C++ | 📅 2026-10-02)
+* <b><code> 12539⭐</code></b> <b><code>  1503🍴</code></b> [`Maraduer Official` Official site from JustCallMeKoko, including various ESP32 options.](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,543 | 🐛 341 | 🌐 C++ | 📅 2026-10-02)
 * <b><code>  2364⭐</code></b> <b><code>   286🍴</code></b> [`Flipper Zero Evil Portal` An evil captive portal Wi-Fi access point using the Flipper Zero and Wi-Fi dev board](https://github.com/bigbrodude6119/flipper-zero-evil-portal) ⭐ 2,366 | 🐛 81 | 🌐 HTML | 📅 2024-07-26)
 * <b><code>  1403⭐</code></b> <b><code>   178🍴</code></b> [`SkeletonMan's ESP32 Flasher` Python script to flash multiple boards with Marauder or BlackMagic.](https://github.com/SkeletonMan03/FZEasyMarauderFlash) ⭐ 1,403 | 🐛 7 | 🌐 Python | 📅 2026-05-27)
 * 🌎 [`FZEE Flasher` Easy web flasher for various different wifi boards.](fzeeflasher.com/)
@@ -241,7 +241,7 @@
 
 ### *Custom firmware (cfw)*
 
-* <b><code> 22407⭐</code></b> <b><code>  1951🍴</code></b> [`Unleashed` Unlocked firmware with rolling codes support & community plugins, stable tweaks, and games.](https://github.com/DarkFlippers/unleashed-firmware) ⭐ 22,411 | 🐛 31 | 🌐 C | 📅 2026-10-02)
+* <b><code> 22407⭐</code></b> <b><code>  1951🍴</code></b> [`Unleashed` Unlocked firmware with rolling codes support & community plugins, stable tweaks, and games.](https://github.com/DarkFlippers/unleashed-firmware) ⭐ 22,412 | 🐛 31 | 🌐 C | 📅 2026-10-02)
 * <b><code>  9219⭐</code></b> <b><code>   594🍴</code></b> [`Momentum` Feature-rich, stable and customizable Flipper firmware: a direct continuation of the Xtreme firmware.](https://github.com/Next-Flip/Momentum-Firmware) ⭐ 9,220 | 🐛 99 | 🌐 C | 📅 2026-08-18)
 * <b><code>  6376⭐</code></b> <b><code>   615🍴</code></b> [`RogueMaster` Fork of Unleashed firmware with custom graphics, experimental tweaks, community plugins and games.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) ⭐ 6,377 | 🐛 0 | 🌐 C | 📅 2026-10-02)
 
@@ -305,7 +305,7 @@
 
 ### *Modules*
 
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [`ESP32 Marauder on WiFi dev board` Portable WiFi/Bluetooth pentesting.](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero) ⭐ 12,542 | 🐛 341 | 🌐 C++ | 📅 2026-10-02)
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [`ESP32 Marauder on WiFi dev board` Portable WiFi/Bluetooth pentesting.](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero) ⭐ 12,543 | 🐛 341 | 🌐 C++ | 📅 2026-10-02)
 * <b><code>   769⭐</code></b> <b><code>    31🍴</code></b> [`WiFi Scanner Module` Scans for WiFi networks via a custom Wemos module board.](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module) ⭐ 769 | 🐛 17 | 🌐 C | 📅 2022-10-09)
 * <b><code>   724⭐</code></b> <b><code>    40🍴</code></b> [`The Mayhem Fin` ESP32 with WiFi, BT/BLE, Micro-SD, Camera, Flashlight, NRF24/CC1101, and more.](https://github.com/eried/flipperzero-mayhem) ⭐ 724 | 🐛 3 | 🌐 C++ | 📅 2026-01-26)
 * <b><code>   580⭐</code></b> <b><code>    33🍴</code></b> [`Flipper Zero Boards` ESP32 and NRF24 daughterboards for the Flipper.](https://github.com/DrB0rk/Flipper-Zero-Boards) ⭐ 580 | 🐛 5 | 🌐 Batchfile | 📅 2024-04-18)
