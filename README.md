@@ -134,7 +134,7 @@
 ### *NFC/RFID*
 
 * <b><code>  3632⭐</code></b> <b><code>   301🍴</code></b> [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo) ⭐ 3,632 | 🐛 10 | 🌐 Python | 📅 2024-08-15)
-* <b><code>   564⭐</code></b> <b><code>   110🍴</code></b> [`Flipper-Zero-Tonies` Database of Tonies for the Toniebox.](https://github.com/nortakales/flipper-zero-tonies) ⭐ 565 | 🐛 12 | 🌐 Python | 📅 2026-10-05)
+* <b><code>   564⭐</code></b> <b><code>   110🍴</code></b> [`Flipper-Zero-Tonies` Database of Tonies for the Toniebox.](https://github.com/nortakales/flipper-zero-tonies) ⭐ 566 | 🐛 12 | 🌐 Python | 📅 2026-10-05)
 
 ### *Infrared*
 
@@ -199,7 +199,7 @@
 * <b><code> 17632⭐</code></b> <b><code>  3918🍴</code></b> [`UberGuidoZ Files and Documentation` Documentation, Marauder, BlackMagic, and links.](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard) ⭐ 17,645 | 🐛 8 | 🌐 C | 📅 2026-07-28)
 * <b><code> 12555⭐</code></b> <b><code>  1509🍴</code></b> [`Maraduer Official` Official site from JustCallMeKoko, including various ESP32 options.](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,571 | 🐛 331 | 🌐 C++ | 📅 2026-10-06)
 * <b><code>  2369⭐</code></b> <b><code>   286🍴</code></b> [`Flipper Zero Evil Portal` An evil captive portal Wi-Fi access point using the Flipper Zero and Wi-Fi dev board](https://github.com/bigbrodude6119/flipper-zero-evil-portal) ⭐ 2,372 | 🐛 81 | 🌐 HTML | 📅 2024-07-26)
-* <b><code>  1402⭐</code></b> <b><code>   178🍴</code></b> [`SkeletonMan's ESP32 Flasher` Python script to flash multiple boards with Marauder or BlackMagic.](https://github.com/SkeletonMan03/FZEasyMarauderFlash) ⭐ 1,402 | 🐛 7 | 🌐 Python | 📅 2026-05-27)
+* <b><code>  1402⭐</code></b> <b><code>   178🍴</code></b> [`SkeletonMan's ESP32 Flasher` Python script to flash multiple boards with Marauder or BlackMagic.](https://github.com/SkeletonMan03/FZEasyMarauderFlash) ⭐ 1,403 | 🐛 7 | 🌐 Python | 📅 2026-05-27)
 * 🌎 [`FZEE Flasher` Easy web flasher for various different wifi boards.](fzeeflasher.com/)
 
 ### *Bluetooth*
@@ -237,12 +237,12 @@
 
 ### *Official firmware (ofw)*
 
-* <b><code> 16666⭐</code></b> <b><code>  3484🍴</code></b> [`Official firmware` The source code for Flipper's stock firmware.](https://github.com/flipperdevices/flipperzero-firmware) ⭐ 16,677 | 🐛 250 | 🌐 C | 📅 2026-10-05)
+* <b><code> 16666⭐</code></b> <b><code>  3484🍴</code></b> [`Official firmware` The source code for Flipper's stock firmware.](https://github.com/flipperdevices/flipperzero-firmware) ⭐ 16,678 | 🐛 250 | 🌐 C | 📅 2026-10-05)
 
 ### *Custom firmware (cfw)*
 
-* <b><code> 22418⭐</code></b> <b><code>  1953🍴</code></b> [`Unleashed` Unlocked firmware with rolling codes support & community plugins, stable tweaks, and games.](https://github.com/DarkFlippers/unleashed-firmware) ⭐ 22,435 | 🐛 29 | 🌐 C | 📅 2026-10-05)
-* <b><code>  9226⭐</code></b> <b><code>   594🍴</code></b> [`Momentum` Feature-rich, stable and customizable Flipper firmware: a direct continuation of the Xtreme firmware.](https://github.com/Next-Flip/Momentum-Firmware) ⭐ 9,228 | 🐛 98 | 🌐 C | 📅 2026-08-18)
+* <b><code> 22418⭐</code></b> <b><code>  1953🍴</code></b> [`Unleashed` Unlocked firmware with rolling codes support & community plugins, stable tweaks, and games.](https://github.com/DarkFlippers/unleashed-firmware) ⭐ 22,437 | 🐛 29 | 🌐 C | 📅 2026-10-05)
+* <b><code>  9226⭐</code></b> <b><code>   594🍴</code></b> [`Momentum` Feature-rich, stable and customizable Flipper firmware: a direct continuation of the Xtreme firmware.](https://github.com/Next-Flip/Momentum-Firmware) ⭐ 9,229 | 🐛 98 | 🌐 C | 📅 2026-08-18)
 * <b><code>  6379⭐</code></b> <b><code>   615🍴</code></b> [`RogueMaster` Fork of Unleashed firmware with custom graphics, experimental tweaks, community plugins and games.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) ⭐ 6,379 | 🐛 0 | 🌐 C | 📅 2026-10-06)
 
 ### *Outdated/Unmaintained firmware*
@@ -409,7 +409,7 @@
 
 ## Source
 
-<b><code> 24398⭐</code></b> <b><code>  1067🍴</code></b> [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) ⭐ 24,413 | 🐛 17 | 📅 2024-09-27)
+<b><code> 24398⭐</code></b> <b><code>  1067🍴</code></b> [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) ⭐ 24,414 | 🐛 17 | 📅 2024-09-27)
 
 ***
 

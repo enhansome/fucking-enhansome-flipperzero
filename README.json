@@ -161,7 +161,7 @@
                 "open_issues": 12,
                 "owner": "nortakales",
                 "repo": "flipper-zero-tonies",
-                "stars": 565,
+                "stars": 566,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:47:44.755Z"
@@ -945,7 +945,7 @@
                 "open_issues": 7,
                 "owner": "SkeletonMan03",
                 "repo": "FZEasyMarauderFlash",
-                "stars": 1402,
+                "stars": 1403,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:47:44.755Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 250,
                 "owner": "flipperdevices",
                 "repo": "flipperzero-firmware",
-                "stars": 16677,
+                "stars": 16678,
                 "topics": [
                   "armv7m",
                   "ble",
@@ -1421,7 +1421,7 @@
                 "open_issues": 29,
                 "owner": "DarkFlippers",
                 "repo": "unleashed-firmware",
-                "stars": 22435,
+                "stars": 22437,
                 "topics": [
                   "alternative-firmware",
                   "cfw",
@@ -1459,7 +1459,7 @@
                 "open_issues": 98,
                 "owner": "Next-Flip",
                 "repo": "Momentum-Firmware",
-                "stars": 9228,
+                "stars": 9229,
                 "topics": [
                   "custom",
                   "custom-firmware",
@@ -2879,7 +2879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:34:37.421Z",
+    "last_updated": "2026-10-06T11:06:16.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "🐬 A collection of awesome resources for the Flipper Zero device. With repository stars⭐ and forks🍴",
