@@ -7,7 +7,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "17743⭐ 3920🍴 Large collection of files, documentation, and dumps of all kinds, including everything below.",
+              "title": "17754⭐ 3922🍴 Large collection of files, documentation, and dumps of all kinds, including everything below.",
               "description": "UberGuidoZ/Flipper",
               "children": [],
               "repo_info": {
@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17753,
+                "stars": 17756,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:47:44.755Z"
@@ -35,7 +35,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2547⭐ 161🍴 Generate .sub files to brute force Sub-GHz OOK.",
+              "title": "2548⭐ 162🍴 Generate .sub files to brute force Sub-GHz OOK.",
               "description": "tobiabocchi/flipperzero-bruteforce",
               "children": [],
               "repo_info": {
@@ -49,14 +49,14 @@
                 "open_issues": 13,
                 "owner": "tobiabocchi",
                 "repo": "flipperzero-bruteforce",
-                "stars": 2549,
+                "stars": 2548,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
-              "title": "738⭐ 52🍴 Dumps of TouchTune's remote.",
+              "title": "737⭐ 52🍴 Dumps of TouchTune's remote.",
               "description": "jimilinuxguy/flipperzero-touchtunes",
               "children": [],
               "repo_info": {
@@ -77,7 +77,7 @@
             },
             {
               "node_type": "item",
-              "title": "731⭐ 60🍴 Triggers Retekess T119 restaurant pagers.",
+              "title": "730⭐ 60🍴 Triggers Retekess T119 restaurant pagers.",
               "description": "xb8/t119bruteforcer",
               "children": [],
               "repo_info": {
@@ -126,7 +126,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "3642⭐ 300🍴 Bank vault of Amiibos to Flipper's format.",
+              "title": "3647⭐ 300🍴 Bank vault of Amiibos to Flipper's format.",
               "description": "Gioman101/FlipperAmiibo",
               "children": [],
               "repo_info": {
@@ -140,14 +140,14 @@
                 "open_issues": 11,
                 "owner": "Gioman101",
                 "repo": "FlipperAmiibo",
-                "stars": 3646,
+                "stars": 3648,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
-              "title": "592⭐ 115🍴 Database of Tonies for the Toniebox.",
+              "title": "593⭐ 115🍴 Database of Tonies for the Toniebox.",
               "description": "nortakales/flipper-zero-tonies",
               "children": [],
               "repo_info": {
@@ -161,7 +161,7 @@
                 "open_issues": 11,
                 "owner": "nortakales",
                 "repo": "flipper-zero-tonies",
-                "stars": 593,
+                "stars": 596,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:47:44.755Z"
@@ -175,7 +175,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2579⭐ 344🍴 Many IR dumps for various devices.",
+              "title": "2578⭐ 344🍴 Many IR dumps for various devices.",
               "description": "logickworkshop/Flipper-IRDB",
               "children": [],
               "repo_info": {
@@ -203,7 +203,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "7160⭐ 891🍴 Collection of payloads formatted to work on the Flipper Zero.",
+              "title": "7169⭐ 892🍴 Collection of payloads formatted to work on the Flipper Zero.",
               "description": "I-Am-Jakoby/Flipper-Zero-BadUSB",
               "children": [],
               "repo_info": {
@@ -217,7 +217,7 @@
                 "open_issues": 66,
                 "owner": "I-Am-Jakoby",
                 "repo": "Flipper-Zero-BadUSB",
-                "stars": 7168,
+                "stars": 7171,
                 "topics": [
                   "badusb",
                   "badusb-payloads",
@@ -230,7 +230,7 @@
             },
             {
               "node_type": "item",
-              "title": "2027⭐ 282🍴 Flipper Zero community ducky payload repo.",
+              "title": "2029⭐ 283🍴 Flipper Zero community ducky payload repo.",
               "description": "FalsePhilosopher/badusb",
               "children": [],
               "repo_info": {
@@ -289,7 +289,7 @@
             },
             {
               "node_type": "item",
-              "title": "399⭐ 27🍴 Free BadUSB payloads for ethical hacking (and fun).",
+              "title": "400⭐ 28🍴 Free BadUSB payloads for ethical hacking (and fun).",
               "description": "MarkCyber/BadUSB",
               "children": [],
               "repo_info": {
@@ -370,7 +370,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1431⭐ 93🍴 Intercom keys, scripts, etc.",
+              "title": "1431⭐ 94🍴 Intercom keys, scripts, etc.",
               "description": "wetox-team/flipperzero-goodies",
               "children": [],
               "repo_info": {
@@ -391,7 +391,7 @@
             },
             {
               "node_type": "item",
-              "title": "587⭐ 42🍴 Universal Intercom Keys.",
+              "title": "586⭐ 42🍴 Universal Intercom Keys.",
               "description": "glutesha/Flipper-Starnew",
               "children": [],
               "repo_info": {
@@ -425,7 +425,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1572⭐ 176🍴 Large collection of applications including some not published in the official catalog",
+              "title": "1573⭐ 176🍴 Large collection of applications including some not published in the official catalog",
               "description": "xMasterX/all-the-plugins",
               "children": [],
               "repo_info": {
@@ -435,11 +435,11 @@
                 "id": 559048939,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-29T01:42:28Z",
+                "last_commit": "2026-11-02T04:35:18Z",
                 "open_issues": 9,
                 "owner": "xMasterX",
                 "repo": "all-the-plugins",
-                "stars": 1573,
+                "stars": 1576,
                 "topics": [
                   "faps",
                   "flipper",
@@ -468,7 +468,7 @@
                 "open_issues": 40,
                 "owner": "flipperdevices",
                 "repo": "flipperzero-good-faps",
-                "stars": 486,
+                "stars": 487,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:47:44.755Z"
@@ -546,7 +546,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "430⭐ 55🍴 Keeps PC screens on by acting as a moving mouse.",
+              "title": "431⭐ 55🍴 Keeps PC screens on by acting as a moving mouse.",
               "description": "MuddledBox/flipperzero-firmware",
               "children": [],
               "repo_info": {
@@ -567,7 +567,7 @@
             },
             {
               "node_type": "item",
-              "title": "399⭐ 27🍴 Scans a PC for vulnerabilities and saves results.",
+              "title": "400⭐ 28🍴 Scans a PC for vulnerabilities and saves results.",
               "description": "MarkCyber/BadUSB",
               "children": [],
               "repo_info": {
@@ -658,7 +658,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "17743⭐ 3920🍴 Many different pinouts, modules, and protocol documentation.",
+              "title": "17754⭐ 3922🍴 Many different pinouts, modules, and protocol documentation.",
               "description": "UberGuidoZ/Flipper",
               "children": [],
               "repo_info": {
@@ -672,7 +672,7 @@
                 "open_issues": 9,
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17753,
+                "stars": 17756,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:47:44.755Z"
@@ -737,7 +737,7 @@
             },
             {
               "node_type": "item",
-              "title": "346⭐ 38🍴 Display data from a serial GPS module.",
+              "title": "347⭐ 38🍴 Display data from a serial GPS module.",
               "description": "ezod/flipperzero-gps",
               "children": [],
               "repo_info": {
@@ -811,7 +811,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "17743⭐ 3920🍴 Documentation, Marauder, BlackMagic, and links.",
+              "title": "17754⭐ 3922🍴 Documentation, Marauder, BlackMagic, and links.",
               "description": "UberGuidoZ/Flipper",
               "children": [],
               "repo_info": {
@@ -825,14 +825,14 @@
                 "open_issues": 9,
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17753,
+                "stars": 17756,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
-              "title": "12934⭐ 1567🍴 Official site from JustCallMeKoko, including various ESP32 options.",
+              "title": "12962⭐ 1572🍴 Official site from JustCallMeKoko, including various ESP32 options.",
               "description": "justcallmekoko/ESP32Marauder",
               "children": [],
               "repo_info": {
@@ -846,7 +846,7 @@
                 "open_issues": 198,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12962,
+                "stars": 12972,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -874,7 +874,7 @@
             },
             {
               "node_type": "item",
-              "title": "2389⭐ 286🍴 An evil captive portal Wi-Fi access point using the Flipper Zero and Wi-Fi dev board",
+              "title": "2395⭐ 287🍴 An evil captive portal Wi-Fi access point using the Flipper Zero and Wi-Fi dev board",
               "description": "bigbrodude6119/flipper-zero-evil-portal",
               "children": [],
               "repo_info": {
@@ -888,14 +888,14 @@
                 "open_issues": 81,
                 "owner": "bigbrodude6119",
                 "repo": "flipper-zero-evil-portal",
-                "stars": 2394,
+                "stars": 2395,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
-              "title": "1406⭐ 178🍴 Python script to flash multiple boards with Marauder or BlackMagic.",
+              "title": "1407⭐ 178🍴 Python script to flash multiple boards with Marauder or BlackMagic.",
               "description": "SkeletonMan03/FZEasyMarauderFlash",
               "children": [],
               "repo_info": {
@@ -1331,7 +1331,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "16801⭐ 3507🍴 The source code for Flipper's stock firmware.",
+              "title": "16810⭐ 3511🍴 The source code for Flipper's stock firmware.",
               "description": "flipperdevices/flipperzero-firmware",
               "children": [],
               "repo_info": {
@@ -1342,10 +1342,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-30T19:23:12Z",
-                "open_issues": 262,
+                "open_issues": 263,
                 "owner": "flipperdevices",
                 "repo": "flipperzero-firmware",
-                "stars": 16811,
+                "stars": 16820,
                 "topics": [
                   "armv7m",
                   "ble",
@@ -1371,7 +1371,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "22595⭐ 1973🍴 Unlocked firmware with rolling codes support & community plugins, stable tweaks, and games.",
+              "title": "22615⭐ 1973🍴 Unlocked firmware with rolling codes support & community plugins, stable tweaks, and games.",
               "description": "DarkFlippers/unleashed-firmware",
               "children": [],
               "repo_info": {
@@ -1381,11 +1381,11 @@
                 "id": 470579591,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T19:26:10Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-02T04:44:48Z",
+                "open_issues": 30,
                 "owner": "DarkFlippers",
                 "repo": "unleashed-firmware",
-                "stars": 22613,
+                "stars": 22624,
                 "topics": [
                   "alternative-firmware",
                   "cfw",
@@ -1409,7 +1409,7 @@
             },
             {
               "node_type": "item",
-              "title": "9334⭐ 602🍴 Feature-rich, stable and customizable Flipper firmware: a direct continuation of the Xtreme firmware.",
+              "title": "9346⭐ 605🍴 Feature-rich, stable and customizable Flipper firmware: a direct continuation of the Xtreme firmware.",
               "description": "Next-Flip/Momentum-Firmware",
               "children": [],
               "repo_info": {
@@ -1423,7 +1423,7 @@
                 "open_issues": 100,
                 "owner": "Next-Flip",
                 "repo": "Momentum-Firmware",
-                "stars": 9346,
+                "stars": 9349,
                 "topics": [
                   "custom",
                   "custom-firmware",
@@ -1439,7 +1439,7 @@
             },
             {
               "node_type": "item",
-              "title": "6412⭐ 617🍴 Fork of Unleashed firmware with custom graphics, experimental tweaks, community plugins and games.",
+              "title": "6414⭐ 618🍴 Fork of Unleashed firmware with custom graphics, experimental tweaks, community plugins and games.",
               "description": "RogueMaster/flipperzero-firmware-wPlugins",
               "children": [],
               "repo_info": {
@@ -1449,11 +1449,11 @@
                 "id": 492005030,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T03:58:49Z",
+                "last_commit": "2026-11-02T04:34:02Z",
                 "open_issues": 0,
                 "owner": "RogueMaster",
                 "repo": "flipperzero-firmware-wPlugins",
-                "stars": 6414,
+                "stars": 6417,
                 "topics": [
                   "armv7m",
                   "ble",
@@ -1485,7 +1485,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "9896⭐ 712🍴 Official fork with cleaned up codebase, more module extensions and custom assets.",
+              "title": "9897⭐ 711🍴 Official fork with cleaned up codebase, more module extensions and custom assets.",
               "description": "Flipper-XFW/Xtreme-Firmware",
               "children": [],
               "repo_info": {
@@ -1499,7 +1499,7 @@
                 "open_issues": 64,
                 "owner": "Flipper-XFW",
                 "repo": "Xtreme-Firmware",
-                "stars": 9897,
+                "stars": 9898,
                 "topics": [
                   "cfw",
                   "custom-firmware",
@@ -1513,7 +1513,7 @@
             },
             {
               "node_type": "item",
-              "title": "430⭐ 55🍴 Less-active firmware modifications.",
+              "title": "431⭐ 55🍴 Less-active firmware modifications.",
               "description": "MuddledBox/flipperzero-firmware",
               "children": [],
               "repo_info": {
@@ -1631,7 +1631,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "17743⭐ 3920🍴 Brief description and links to resources, including PYX host.",
+              "title": "17754⭐ 3922🍴 Brief description and links to resources, including PYX host.",
               "description": "UberGuidoZ/Flipper",
               "children": [],
               "repo_info": {
@@ -1645,14 +1645,14 @@
                 "open_issues": 9,
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17753,
+                "stars": 17756,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
-              "title": "798⭐ 49🍴 Literally wrote the book on making animations.",
+              "title": "799⭐ 49🍴 Literally wrote the book on making animations.",
               "description": "skizzophrenic/Talking-Sasquach",
               "children": [],
               "repo_info": {
@@ -2075,7 +2075,7 @@
                 "open_issues": 198,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12962,
+                "stars": 12972,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -2132,7 +2132,7 @@
             },
             {
               "node_type": "item",
-              "title": "732⭐ 40🍴 ESP32 with WiFi, BT/BLE, Micro-SD, Camera, Flashlight, NRF24/CC1101, and more.",
+              "title": "733⭐ 40🍴 ESP32 with WiFi, BT/BLE, Micro-SD, Camera, Flashlight, NRF24/CC1101, and more.",
               "description": "eried/flipperzero-mayhem",
               "children": [],
               "repo_info": {
@@ -2146,7 +2146,7 @@
                 "open_issues": 3,
                 "owner": "eried",
                 "repo": "flipperzero-mayhem",
-                "stars": 733,
+                "stars": 734,
                 "topics": [
                   "esp32",
                   "esp32-arduino",
@@ -2181,7 +2181,7 @@
             },
             {
               "node_type": "item",
-              "title": "484⭐ 29🍴 Preforms WiFi deauth attacks via a custom ESP8266 module board.",
+              "title": "483⭐ 29🍴 Preforms WiFi deauth attacks via a custom ESP8266 module board.",
               "description": "SequoiaSan/FlipperZero-Wifi-ESP8266-Deauther-Module",
               "children": [],
               "repo_info": {
@@ -2214,7 +2214,7 @@
             },
             {
               "node_type": "item",
-              "title": "451⭐ 24🍴 Backpack addon boards with ESP32, Raspberry Pi, Protoboards etc.",
+              "title": "452⭐ 24🍴 Backpack addon boards with ESP32, Raspberry Pi, Protoboards etc.",
               "description": "Chrismettal/flipper-zero-backpacks",
               "children": [],
               "repo_info": {
@@ -2375,7 +2375,7 @@
                 "open_issues": 4,
                 "owner": "0xz00n",
                 "repo": "FlipMiibo",
-                "stars": 247,
+                "stars": 249,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:47:44.755Z"
@@ -2653,7 +2653,7 @@
                 "open_issues": 0,
                 "owner": "wh00hw",
                 "repo": "pyFlipper",
-                "stars": 445,
+                "stars": 446,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:47:44.755Z"
@@ -2793,7 +2793,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "17743⭐ 3920🍴 ESP32, ESP8266, ESP32-CAM, ESP32-WROOM, NRF24.",
+              "title": "17754⭐ 3922🍴 ESP32, ESP8266, ESP32-CAM, ESP32-WROOM, NRF24.",
               "description": "UberGuidoZ/Flipper",
               "children": [],
               "repo_info": {
@@ -2807,14 +2807,14 @@
                 "open_issues": 9,
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17753,
+                "stars": 17756,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:47:44.755Z"
             },
             {
               "node_type": "item",
-              "title": "17743⭐ 3920🍴 Basic info on screen and case dimensions.",
+              "title": "17754⭐ 3922🍴 Basic info on screen and case dimensions.",
               "description": "UberGuidoZ/Flipper",
               "children": [],
               "repo_info": {
@@ -2828,7 +2828,7 @@
                 "open_issues": 9,
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17753,
+                "stars": 17756,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:47:44.755Z"
@@ -2843,7 +2843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T08:43:30.283Z",
+    "last_updated": "2026-11-02T08:54:23.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "🐬 A collection of awesome resources for the Flipper Zero device. With repository stars⭐ and forks🍴",
@@ -2851,7 +2851,7 @@
       "id": 608239509,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-30T11:56:16Z",
+      "last_commit": "2026-11-01T11:40:37Z",
       "open_issues": 1,
       "owner": "Correia-jpv",
       "repo": "fucking-awesome-flipperzero",
@@ -2866,7 +2866,7 @@
         "lists"
       ]
     },
-    "original_repository_sha": "c093bbd3b20ca463db097ddb7feedd56e90626f3",
+    "original_repository_sha": "d7c08be9135adb64dcd3ed36f56c95d179c979ff",
     "enhanced_repository": "enhansome/fucking-enhansome-flipperzero",
     "enhanced_repository_description": null,
     "title": "Awesome fucking awesome flipperzero with stars"
